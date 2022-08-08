@@ -3,3 +3,4 @@ bin/
 go.sum
 .idea/
 *.iml
+vendor/
