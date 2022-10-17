@@ -1,6 +1,6 @@
 module github.com/rainhq/signalr/v2/examples/bittrex_v3
 
-go 1.15
+go 1.17
 
 require (
 	github.com/juju/ansiterm v0.0.0-20180109212912-720a0952cc2a

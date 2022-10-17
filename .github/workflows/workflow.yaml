@@ -9,7 +9,7 @@ jobs:
       fail-fast: false
       matrix:
         go:
-          - "1.15"
+          - "1.17"
     name: Go ${{ matrix.go }}
     env:
       GOLANGCILINT_CONCURRENCY: "4"
